@@ -1,0 +1,24 @@
+main {
+       text-align: center;
+       justify-content: center;
+       margin-top: 30px;
+}
+
+input {
+       width: 100px;
+       height: 70px;
+       font-size: 65px;
+       border-radius: 10px;
+       margin: 10px;
+       background-color: #ed73a2;
+       color: #fff;
+       border-style: none;
+}
+
+
+input.input-style {
+       background-color: #acb0b1;
+       width: 457px;
+       height: 100px;
+       text-align: center;
+}
