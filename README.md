@@ -1,3 +1,3 @@
 # Awesome-JavaScript-Mini-Project
 
-- 01 Mini Calculator
+- 01 Simple Calculator
